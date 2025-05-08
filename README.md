@@ -2,7 +2,7 @@
 Project created in node.js for training in the application of notes manager for personal projects
 
 ##Notes
-Aplicativo de gerenciamento de anotações. Permite criar, editar, excluir e buscar anotações.
+Aplicativo de gerenciamento de anotações com visualização dos dados. Permite criar, editar, excluir e buscar anotações.
 
 #Tecnologias Usadas
 - Node.js
